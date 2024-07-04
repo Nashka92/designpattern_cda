@@ -1,4 +1,4 @@
-package org.example.pizza;
+package org.example.tp1_builder.pizza;
 
 import java.util.ArrayList;
 import java.util.List;

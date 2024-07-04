@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.pizza.Pizza;
+import org.example.tp1_builder.pizza.Pizza;
 
 public class Main {
     public static void main(String[] args) {
